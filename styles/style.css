@@ -58,10 +58,6 @@ body, p, a, h1, h2, h3, ul, li {
   z-index: 2;
 }
 
-.logo_place_footer {
-  background-image: url('../images/logo_place_footer.svg');
-}
-
 .header__title {
   display: flex;
   align-self: center;
@@ -123,7 +119,7 @@ body, p, a, h1, h2, h3, ul, li {
 .two-columns__brief {
   width: 175px;
   line-height: 1.2;
-  font-style: 18px;
+  font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
 }
@@ -135,7 +131,7 @@ body, p, a, h1, h2, h3, ul, li {
 
 .two-columns__span-accent {
   line-height: 34px;
-  font-style: 24px;
+  font-size: 24px;
   font-weight: bold;
 }
 

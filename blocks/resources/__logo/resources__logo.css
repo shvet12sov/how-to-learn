@@ -1,4 +1,12 @@
 .resources__logo {
   width: 270px;
   height: 38px;
+  margin-right: 0;
+  text-align: center;
 }
+
+.resources__logo > a:hover {
+  opacity: .5;
+  transition: .3s ease-out;
+}
+
